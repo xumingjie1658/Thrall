@@ -1,0 +1,7 @@
+.idea/
+.travis.yml
+appveyor.yml
+index.js
+logs/
+node_modules/
+run/
